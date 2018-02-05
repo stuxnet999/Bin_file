@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<string.h>
 
+// This file is counting the no.of words present in the file called count.dat.//
+
 int main()
 {
 	FILE *fp;
